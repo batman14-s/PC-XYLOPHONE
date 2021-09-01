@@ -1,0 +1,136 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.c {
+
+    width: 92px;
+    height: 282px;
+    background-color: #FF0000;
+
+
+
+}
+
+.d {
+
+    width: 92px;
+    height: 262px;
+    background-color: #FF8B00;
+    position: relative;
+
+
+
+
+}
+
+.e {
+
+    width: 92px;
+    height: 242px;
+    background-color: #FFF200;
+    position: relative;
+
+
+
+
+}
+
+.f {
+
+      width: 92px;
+      height: 222px;
+      background-color: #00E22B;
+      position: relative;
+
+
+
+}
+
+.g {
+
+      width: 92px;
+      height: 202px;
+      background-color: #0000FF;
+      position: relative;
+
+
+
+}
+
+.a {
+
+      width: 92px;
+      height: 182px;
+      background-color: #AB10D2;
+      position: relative;
+
+
+
+}
+
+.b {
+
+      width: 92px;
+      height: 162px;
+      background-color: #FF8B00;
+      position: relative;
+
+
+
+}
+.c2{
+  width: 92px;
+  height: 142px;
+  background-color: #FF0000;
+  position: relative;
+
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+.set{
+
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 1rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  color: black;
+  border-radius: 15px;
+  margin: 10px;
+
+}
